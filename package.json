@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "renovate": "^18.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "name": "01.-cat-shelter-workshop-resources",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
